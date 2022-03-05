@@ -1,3 +1,5 @@
+#game develop following Hashtag Treinamentos tutorial
+
 import pygame
 import os
 import random
